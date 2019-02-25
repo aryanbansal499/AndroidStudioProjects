@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364616685345",
+    "firebase_url": "https://logindemo-538b4.firebaseio.com",
+    "project_id": "logindemo-538b4",
+    "storage_bucket": "logindemo-538b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364616685345:android:9b41c4fda2f07526",
+        "android_client_info": {
+          "package_name": "aniseh.helloworldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364616685345-pluii6rl8j03locodmqc2ltn0na6thlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsU3QauwBr84rTeLuwkdWJxj_rrzkPpnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
